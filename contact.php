@@ -12,7 +12,12 @@
     <title>Dhingra Group</title>
     <!-- Stylesheets & Fonts -->
     <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+
+        </style>
 </head>
 
 <body>
@@ -40,73 +45,105 @@
         </section>
         <!-- end: Page title -->
         <!-- CONTENT -->
+        <div class="row contact-page">
+                <div class="col-md-12">
+                    <div class="section-title text-center">
+                        <h2>Get In <span>Touch</span></h2>
+                    </div>
+                </div>
+            </div>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <h3 class="text-uppercase">Get In Touch</h3>
-                        <p>The most happiest time of the day!. Suspendisse condimentum porttitor cursus. Duis nec nulla turpis. Nulla lacinia laoreet odio, non lacinia nisl malesuada vel. Aenean malesuada fermentum bibendum.</p>
-                        <div class="m-t-30">
+                            <div class="form-head">
                             <form class="widget-contact-form" action="include/contact-form-attachment.php" role="form" method="post" enctype="multipart/form-data">
                                 <div class="row">
-                                    <div class="form-group col-md-6">
+                                    <div class="form-group col-md-12">
                                         <label for="name">Name</label>
                                         <input type="text" aria-required="true" name="widget-contact-form-name" class="form-control name" placeholder="Enter your Name">
                                     </div>
-                                    <div class="form-group col-md-6">
+                                    <div class="form-group col-md-12">
+                                        <label for="name">Phone</label>
+                                        <input type="text" aria-required="true" name="widget-contact-form-name" class="form-control name" placeholder="Enter your Phone">
+                                    </div>
+                                    <div class="form-group col-md-12">
                                         <label for="email">Email</label>
                                         <input type="email" aria-required="true" required name="widget-contact-form-email" class="form-control email" placeholder="Enter your Email">
                                     </div>
-                                </div>
-                                <div class="row">
-                                    <div class="form-group col-md-12">
-                                        <label for="subject">Your Subject</label>
-                                        <input type="text" name="widget-contact-form-subject" class="form-control" placeholder="Subject...">
-                                    </div>
-                                </div>
+                                
                                 <div class="form-group">
                                     <label for="message">Message</label>
                                     <textarea type="text" name="widget-contact-form-message" rows="5" class="form-control " placeholder="Enter your Message"></textarea>
                                 </div>
-                                <div class="form-group">
-                                    <label for="message">Attachment file<small>*</small></label>
-                                    <input type="hidden" name="MAX_FILE_SIZE" value="1000000">
-                                    <input type="file" aria-required="true" name="widget-contact-form-attachment" class="form-control required" />
                                 </div>
-                                <!--   <div class="form-group">
-                                    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-                                    <div class="g-recaptcha" data-sitekey="6LddCxAUAAAAAKOg0-U6IprqOZ7vTfiMNSyQT2-M"></div>
-                                </div> -->
+                                
+                               
                                 <button class="btn btn-primary" type="submit" id="form-submit"><i class="fa fa-paper-plane"></i>&nbsp;Send message</button>
                             </form>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <h3 class="text-uppercase">Address & Map</h3>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <address>
-                                    <strong> Branch Office</strong><br>
-                                    M-9, Basement, South City <br>
-                                    Gurugram <br> Haryana-122001<br>
-                                    <abbr title="Phone">M:</h4> +91 7428705424
-                                </address>
                             </div>
-                            <div class="col-lg-6">
-                                <address>
-                                    <strong>Head Office</strong><br>
-                                    F Block, Pocket X, Okhla Phase II, <br>Okhla Industrial Estate, <br> New Delhi, Delhi 110020<br>
-                                    <abbr title="Phone">P:</h4> 011 2638 6701
-                                </address>
-                            </div>
-                        </div>
-                        <!-- Google Map -->
-                        <div class="map" data-latitude="-37.817240" data-longitude="144.955826" data-style="light" data-info="Hello from &lt;br&gt; Inspiro Themes"></div>
-                        <!-- end: Google Map -->
+                          
                     </div>
-                </div>
+                   <div class="col-lg-6 col-md-6 col-12 pt-4">
+
+<div class="contact-map__card">
+    <div class="img">
+        <img src="images/contact-us.jpg" alt="Contact us">
+    </div>
+    <div class="content">
+
+        <!--contact-top__call-item -->
+        <div class="contact-top__call-item mb-4">
+            <svg width="24.375" height="24.343" viewBox="0 0 24.375 24.343">
+                <path id="phone.svg" class="contact-top__call-icon cls-C1" d="M831.817,365.478a10.864,10.864,0,0,0-10.852-10.851v-1.55a12.416,12.416,0,0,1,12.4,12.4h-1.551Zm-6.2,0a4.656,4.656,0,0,0-4.651-4.651v-1.55a6.208,6.208,0,0,1,6.2,6.2h-1.55Zm-4.651-9.3a9.312,9.312,0,0,1,9.3,9.3h-1.551a7.759,7.759,0,0,0-7.751-7.751v-1.55Zm3.779,13.4,1.938-1.937a0.578,0.578,0,0,1,.064-0.058,1.924,1.924,0,0,1,2.511-.006,0.72,0.72,0,0,1,.071.064l3.488,3.487a1.871,1.871,0,0,1,0,2.646l-2.325,2.326a5.527,5.527,0,0,1-3.942,1.314c-3.14,0-7.446-1.609-11.712-5.8l0.41-.418-0.417.41a19.929,19.929,0,0,1-5.5-9.163c-0.666-2.764-.288-5.19,1.01-6.489l2.325-2.325a1.917,1.917,0,0,1,2.647,0l3.488,3.488a0.8,0.8,0,0,1,.067.077,1.879,1.879,0,0,1-.009,2.5c-0.018.022-.038,0.043-0.058,0.064l-1.938,1.937a1.419,1.419,0,0,0,0,2l2.938,2.937h0l2.94,2.94A1.42,1.42,0,0,0,824.744,369.578Zm6.522,3.554,0.454-.454a0.322,0.322,0,0,0,0-.454l-3.434-3.433c-0.017-.015-0.034-0.029-0.049-0.045a0.277,0.277,0,0,0-.464,0c-0.015.014-.03,0.029-0.046,0.042l-0.4.4ZM817.25,359.116l0.4-.4a0.447,0.447,0,0,1,.042-0.045,0.328,0.328,0,0,0,0-.464,0.652,0.652,0,0,1-.05-0.055l-3.429-3.429a0.323,0.323,0,0,0-.455,0l-0.454.454Zm1.456,8.621h0l-2.94-2.94a2.97,2.97,0,0,1,0-4.2l0.388-.388-3.943-3.941-0.775.774c-0.9.9-1.129,2.827-.6,5.029A20.532,20.532,0,0,0,824.366,375.6c2.2,0.531,4.129.3,5.029-.6l0.775-.775-3.942-3.942-0.388.388a2.971,2.971,0,0,1-4.2,0Z" transform="translate(-809 -353.063)"></path>
+            </svg>
+            <div class="contact-top__call-text">
+                <a href="tel:7428705424 ">(+91) 7428705424 </a>
             </div>
+        </div>
+        <!-- End of .contact-top__call-item -->
+
+        <!-- contact-top__call-item -->
+        <div class="contact-top__call-item mb-4">
+            <svg width="65" height="25.719" viewBox="0 0 18.88 25.719">
+                <path id="address.svg" class="contact-top__call-icon cls-C1" d="M1033.75,377.71l-7.99-11.282a9.433,9.433,0,1,1,16-.04Zm0-24.133a7.845,7.845,0,0,0-6.68,11.983l6.68,9.43,6.7-9.468A7.841,7.841,0,0,0,1033.75,353.577Zm0,11.78a3.927,3.927,0,1,1,3.93-3.928A3.931,3.931,0,0,1,1033.75,365.357Zm0-6.283a2.356,2.356,0,1,0,2.36,2.355A2.362,2.362,0,0,0,1033.75,359.074Z" transform="translate(-1024.31 -352)"></path>
+            </svg>
+            <div class="contact-top__call-text">
+                <!-- <p>Apex T. G. India Pvt. Ltd. E-20 , Sector 63,Noida –201307, India
+                </p> -->
+                <p> M-9, Basement, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  South City 1 , &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gurugram, Haryana-122001
+                </p>
+
+            </div>
+        </div>
+        <!-- End of .contact-top__call-item -->
+
+        <!-- contact-top__call-item -->
+        <div class="contact-top__call-item mb-4">
+            <svg width="25.16" height="25.157" viewBox="0 0 25.16 25.157">
+                <path id="envelope.svg" class="contact-top__call-icon cls-C1" d="M1239.84,377.423v-16.85l3.15-2.723v-5.556h18.87v5.556l3.14,2.723v16.85h-25.16Zm22.48-1.57-6.57-6.557-3.33,2.884-3.33-2.884-6.56,6.557h19.79Zm-20.91-1.11,6.49-6.478-6.49-5.614v12.092Zm1.58-14.814-1.16,1,1.16,1v-2.005Zm17.29,3.359v-9.424h-15.72v9.424h-0.01l7.87,6.813,7.87-6.813h-0.01Zm1.58-3.359v2.005l1.15-1Zm1.57,2.722-6.49,5.614,6.49,6.478V362.651Zm-11.8-4.076h1.58v1.571h-1.58v-1.571Zm4.72,1.571h-1.57v-1.571h1.57v1.571Zm-7.86-1.571h1.57v1.571h-1.57v-1.571Z" transform="translate(-1239.84 -352.281)"></path>
+            </svg>
+            <div class="contact-top__call-text">
+
+                <a href="mailto:sales@dhingragroup.in" class="email">sales@dhingragroup.in</a>
+            </div>
+            <!-- End of .contact-top__call-item -->
+
+        </div>
+
+    </div>
+</div>
+
+              
         </section>
+        <div class="container-fluid">
+        <div class="row">
+
+            <div class="contact-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14009.334267178845!2d77.3857703!3d28.6197632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc732471a38d5b3c6!2sApex%20T.G.%20India%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1633068055645!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </div>
         <!-- end: Content -->
         <!-- Footer -->
         <?php include('header_page/footer.php'); ?>

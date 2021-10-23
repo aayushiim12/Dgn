@@ -1,103 +1,88 @@
-<footer id="footer">
-            <div class="footer-content">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4  col-12">
-                        <div id="logo"> <a href="index.html"><img src="" alt=""><h1 class="text-white " style="margin-top:-18%">Dhingra</h1></a> 
-                    </div>
-                    <p class="text-white pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque beatae nisi praesentium distinctio quaerat modi repudiandae facilis nemo ducimus. Recusandae, illum, facilis rem quia accusantium rerum, accusamus voluptate alias eos quidem ab eum!</p>
-                   
-                    <p class="text-white"> <i class="far fa-clock"></i>&nbsp;&nbsp;Monday - Saturday: <strong>09:00 - 22:00</strong> <br>Sunday: <strong>Closed</strong></p>
-                   
-                            <!-- Footer widget area 1 -->
-                         
-                            <!-- end: Footer widget area 1 -->
-                        </div>
+<footer class="footer overlay section">
 
-                        <div class="col-xl-2 col-lg-3 col-12">
-                            <!-- Footer widget area 1 -->
-                            <div class="widget">
-                                <h4>PRODUCTS</h4>
-                                <ul class="list">
-                                    <li><a href="#">Entrance Automation</a></li>
+    <div class="footer-top">
+        <div class="container flex justify-center">
+            <div class="row ">
+                <div class="col-lg-4 col-md-6 col-10">
+
+                    <div class="single-widget ">
+                        <div class="logo"><a href="#"><img src="assets/img/apex_new_logo.png" alt="#"></a></div>
+                        <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque beatae nisi praesentium distinctio quaerat modi repudiandae facilis nemo ducimus. Recusandae, illum, facilis rem quia accusantium rerum, accusamus voluptate alias eos quidem ab eum!</p>
+                       
+                       
+                    </div>
+                    <div class="rounded-social-buttons mt-2">
+                    <h5 class="text-white pb-2 pt-3">Follow Us</h5>
+                    <a class="social-button facebook" href="https://www.facebook.com/ApexTGINoidaOfficial/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="social-button twitter" href="https://twitter.com/ApextgiNoida" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="social-button linkedin" href="https://in.linkedin.com/company/apex-tgi" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                <a class="social-button youtube" href="https://www.youtube.com/channel/UCL0RdHp-H2jKdA15A0d2CjA" target="_blank"><i class="fab fa-youtube"></i></a>
+                                      
+                            </div>
+
+
+                </div>
+             
+                <div class="col-lg-3 col-md-4 col-12">
+                <div class="single-widget ">
+                       <h2 class="footer-title">Important Links</h2>
+                         <ul>
+                         <li><a href="#">Entrance Automation</a></li>
                                     <li><a href="#">Hygiene Automation</a></li>
                                     <li><a href="#">Door Automation</a></li>
-                                 </ul>
-                            </div>
-                            <!-- end: Footer widget area 1 -->
+                         </ul>
                         </div>
-                        <div class="col-xl-2 col-lg-3 col-12">
-                            <!-- Footer widget area 2 -->
-                            <div class="widget">
-                                <h4>SUPPORT</h4>
-                                <ul class="list">
-                                    <li><a href="#">About Us</a></li>
+                     </div>
+                <div class="col-lg-2 col-md-3 col-12  ">
+                <div class="single-widget ">
+               <h2 class="footer-title">Quick Links</h2>
+                   <ul class="list">
+                   <li><a href="#">About Us</a></li>
                                     <li><a href="#">Our Team</a></li>
-                                </ul>
-                            </div>
-                            <!-- end: Footer widget area 2 -->
-                        </div>
+        </ul>
+</div>
 
+</div>
+                <div class="col-lg-3 col-md-4 col-12 ">
 
-
-                        <div class="col-lg-3 col-12">
-                        <div class="widget  widget-contact-us" style="background-image: url('images/world-map-dark.png');color:White; background-position: 50% 20px; background-repeat: no-repeat">
-                                <h4 class="margin-left:-1%">Contact US</h4>
-                                <ul class="list-icon">
-                                    <li><i class="fa fa-map-marker-alt"></i>
-                                     M-9, Basement, South City 1 <br>  Gurugram, Haryana-122001</li>
-                                    <li><i class="fa fa-phone"></i> (+91) 7428705424 </li>
-                                    <li><i class="far fa-envelope"></i> <a href="mailto:sales@dhingragroup.in">sales@dhingragroup.in</a> </li>
-                                    <li> 
-                                        </li>
-                                </ul>
-                            </div>
-                            <div class="social-icons social-icons-colored float-left" style="margin-top:-12%;">
-                        <h4>Follow Us</h4>
-                                <ul>
-                                    <li class="social-facebook1"><a href="https://www.facebook.com/dhingraplastic/"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li class="social-twitter1"><a href="https://twitter.com/dhingra_plastic"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="social-Linkedin"><a href="https://twitter.com/dhingra_plastic"><i class="fab fa-linkedin"></i></a></li>
-                                    <li class="social-Linkedin"><a href="https://twitter.com/dhingra_plastic"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- <form class="widget-contact-form" novalidate action="include/contact-form.php" role="form" method="post">
-                                <div class="input-group mb-2">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text" id="basic-addon1"><i class="fa fa-user"></i></span>
-                                    </div>
-                                    <input type="text" aria-required="true" name="widget-contact-form-name" class="form-control required name" placeholder="Enter your Name">
-                                </div>
-                                <div class="input-group mb-2">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text" id="basic-addon1"><i class="fa fa-envelope"></i></span>
-                                    </div>
-                                    <input type="email" aria-required="true" required name="widget-contact-form-email" class="form-control required email" placeholder="Enter your Email">
-                                </div>
-                                <div class="form-group mb-2">
-                                    <textarea type="text" name="widget-contact-form-message" rows="5" class="form-control required" placeholder="Enter your Message"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <button class="btn btn-primary" type="submit" id="form-submit"><i class="fa fa-paper-plane"></i>&nbsp;Send message</button>
-                                </div>
-                            </form> -->
-
-                        </div>
-
-
+                    <div class="single-widget newsletter">
+                        
+                        <h2 class="footer-title">Contact Us</h2>
+                        <ul class="list">
+                            <li><i class="fa fa-phone"></i><a href="tel:7428705424 ">(+91) 7428705424 </a></li>
+                            <li><i class="fa fa-map-marker-alt"></i> <a href="mailto:sales@dhingragroup.in"><span>sales@dhingragroup.in</span></a></li>
+                            <li><i class="far fa-envelope"></i></i>M-9, Basement, </li>
+                            <li><i class="far fa-map-marker-alte"></i> &nbsp;&nbsp; South City 1</li>
+                            <li><i class="far fa-map-marker-alte"></i> &nbsp;&nbsp;  Gurugram, Haryana-122001</li>
+                        </ul>
                     </div>
+
+                    
+                
                 </div>
             </div>
-            <div class="copyright-content ">
-                <div class="container">
+        </div>
+    </div>
 
-                    <div class="row">
-                       
+<hr>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="bottom-head">
+                        <div class="row">
+                            <div class="col-12">
 
-                        <div class="col-lg-12 text-copy">
-                            <div class="">&copy; 2021 Dhingra Group. All Rights Reserved.</div>
+                                <div class="copyright">
+                                    <p>© Copyright 2021 <a href="#"> Dhingra Group. </a> All Rights Reserved.</p>
+                                </div>
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
+        </div>
+    </div>
+
+</footer>
