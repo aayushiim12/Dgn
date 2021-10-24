@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="" />
-    <meta name="description" content="">
+    <meta name="author" content="INSPIRO" />
+    <meta name="description" content="DP3L">
     <link rel="icon" type="image/png" href="images/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Document title -->
     <title>Dhingra Group</title>
+    <!-- Stylesheets & Fonts -->
     <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <style>
         .cover.hover{
@@ -16,9 +20,14 @@
         }
         </style>
 </head>
+
 <body>
-<?php include('include/topbar.php'); ?> 
-<?php include('include/header.php'); ?>
+<!-- Body Inner -->
+    <div class="body-inner">
+        <!-- Header -->
+        <?php include('header_page/header.php'); ?>
+        <!-- end: Header -->
+      
                 </div>
             </div>
         </header>
@@ -26,12 +35,37 @@
             <div class="container">
                 <div class="page-title">
                     <h1>Hygiene Automation</h1>
+                   
                 </div>
                 </div>
         </section>
-        <section id="page-content">
+        <!-- end: Call to action -->
+        <!-- end: Header -->
+        <!-- SHOP PRODUCT PAGE -->
+        <div class="container">
+<div class="row">
+
+
+<div class="col-lg-12 pt-5"><p>Entrado aims to provide end-to-end automation solutions for pedestrian access; be it Corporate Buildings/Offices, Manufacturing Plants, Theme Parks & Public Transportation (Airport, Metro, & Bus Rapid Transit).</p>
+<p>We design strong, durable and secure barrier systems for all relevant areas where a line of control has to be established – such Boom Barriers, Bollards, Tripod Turnstiles, Speed Gates, Flap Barriers, Swing Barriers & complete access control solutions. </p></div>
+
+
+</div>
+</div>  
+        <!-- <section id="page-content">
+                        <div class="container">
+                          
+                        <p class="pl-40 ">Entrado aims to provide end-to-end automation solutions for pedestrian access; be it Corporate Buildings/Offices, Manufacturing Plants, Theme Parks & Public Transportation (Airport, Metro, & Bus Rapid Transit).</p>
+                                <p>We design strong, durable and secure barrier systems for all relevant areas where a line of control has to be established – such Boom Barriers, Bollards, Tripod Turnstiles, Speed Gates, Flap Barriers, Swing Barriers & complete access control solutions. </p>
+                        </div>
+                    
+    </section> -->
+                    <!-- Product additional tabs -->
+                    <section id="page-content">
             <div class="container">
-            <div class="tabs tabs-folder">
+
+                    <div class="tabs tabs-folder">
+                        
                         <div class="tab-content" id="myTabContent3" d-sm-none>
                             <div class="tab-pane fade active show" id="home3" role="tabpanel" aria-labelledby="home-tab">
                              
@@ -39,6 +73,16 @@
                             <div class="tabs tabs-folder   text-center">
                         
                                 <div class="tab-content" id="myTabContent3">
+                                  
+                                   
+                                  
+                                    
+                                   
+                                
+                                 
+                                  
+                          
+
                                     <div class="tabs">
                                         <ul class="nav nav-tabs nav-tabs-links d-flex justify-content-center" id="myTab" role="tablist">
                                             <li class="nav-item">
@@ -72,63 +116,50 @@
                                                                 <h4 class="elementor-heading-title elementor-size-default">DP3L-HD9803S</h4>
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                      
                                                                                 <span class="elementor-icon-list-text"> High Speed Hand Dryer</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Voltage : 220-240 V, 50Hz </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Rated Power : 135W</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Air Speed : 60m/s</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Moter Type : Brush motor</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
-                                                                                <span class="elementor-icon-list-text">Motor Speed : 20000 r/m</span>
+                                                                                                                                                                  <span class="elementor-icon-list-text">Motor Speed : 20000 r/m</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Heater Type : heating wire</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Touch-free Activation Type : Infrared</span>
                                                                             </li>
 																			<li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Sensor Distance : 15-20 cm</span>
                                                                             </li>
 																			<li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Drying Time : 10-15s</span>
                                                                             </li>
 																			<li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Noise : 72 db@1m</span>
                                                                             </li>
 																			<li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Size : 260x180x152</span>
                                                                             </li>
                                                                 </ul>
@@ -146,43 +177,35 @@
                                                                 <ul class="elementor-icon-list-items">
                                                                     <h4 class="elementor-heading-title elementor-size-default">LLE-TP-302</h4>
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text"> Size: L:1200xW:280xH:980mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass width:≤550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                               
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Power consumption:30w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -198,13 +221,11 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text"> Size: L:1300xW:300xH:1100mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
@@ -213,33 +234,27 @@
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass width:≤550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                               
                                                                                 <span class="elementor-icon-list-text">Power consumption:30w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -255,43 +270,35 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Size: 1630x1500x2310mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Pass width:≤650mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V;</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Power consumption:30w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -307,43 +314,35 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Size: 2400x1500x2310mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                               
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass width:≤650mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Power consumption:30w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -366,43 +365,35 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                            
                                                                                 <span class="elementor-icon-list-text">Size: L:1200xW280xH980mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Pass width: 550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Power consumption: 35w</span>
                                                                             </li>
                                                                 </ul>
@@ -418,13 +409,11 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Size: L:1400xW340xH1000mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
@@ -433,33 +422,27 @@
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+
                                                                                 <span class="elementor-icon-list-text">Pass width: 550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Power consumption: 35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -474,48 +457,39 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Size: L:1400xW300xH1000mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass width: 550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Power consumption: 35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -531,38 +505,31 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Size: L:1400xW300xH1000mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass width: 550mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
@@ -571,8 +538,7 @@
                                                                                 <span class="elementor-icon-list-text">Power consumption: 35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -597,58 +563,47 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Size: 1400x185x1020mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Pass width:600~900mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Power consumption:35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Use of indoor</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+
                                                                                 <span class="elementor-icon-list-text">Burshless Motor</span>
                                                                             </li>
                                                                 </ul>
@@ -664,53 +619,43 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+
                                                                                 <span class="elementor-icon-list-text">Size: 1400x185x1020mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass width:600~900mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Power consumption:35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Use for outdoor</span>
                                                                             </li>
                                                                 </ul>
@@ -735,48 +680,39 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Size: 168x1000mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                              
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Pass width: 850mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Power consumption:35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -792,48 +728,39 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text"> Size: 480x280x980mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                    
                                                                                 <span class="elementor-icon-list-text">Pass width: 900mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Motor voltage: 24v</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Power consumption:35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -849,43 +776,35 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Size: L168xW165xH1050mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Unlock time: 0.2s </span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Pass rate: 35 person/min</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Pass width: 600mm</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+
                                                                                 <span class="elementor-icon-list-text">Input : 100V~240V</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Environment: -25~+70</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">Power consumption:35w</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Input: 12v dry contact</span>
                                                                             </li>
                                                                 </ul>
@@ -912,18 +831,15 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">	Single Direct Drive Motor</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">	90 Kg weight Per leaf</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">	Maximum acceleration: 1.2 m/s2.</span>
                                                                             </li>
                                                                 </ul>
@@ -939,18 +855,15 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">Two Direct Drive Motor</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                   
                                                                                 <span class="elementor-icon-list-text">120 Kg weight Per leaf</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">	Maximum acceleration: 2 m/s2.</span>
                                                                             </li>
                                                                 </ul>
@@ -966,18 +879,15 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                              
                                                                                 <span class="elementor-icon-list-text">Two Gear  Motor</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                 
                                                                                 <span class="elementor-icon-list-text">220 Kg weight Per leaf</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                
                                                                                 <span class="elementor-icon-list-text">	Maximum acceleration: 1.6 m/s2.</span>
                                                                             </li>
                                                                 </ul>
@@ -985,7 +895,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 animated visible pulse" data-animate="pulse"">
+                                                    <div class="col-lg-6 animated visible pulse" data-animate="pulse">
                                                         <div class="team-member">
                                                             <div class="team-image">
                                                                 <img src="images/door/boom/1.jpg">
@@ -993,18 +903,15 @@
                                                             <div class="team-desc">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                             
                                                                                 <span class="elementor-icon-list-text">IOT Based Technology</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">Easy Fire Alarm Integration</span>
                                                                             </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                                    <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="fas fa-forward"></i>						</span>
+                                                                                  
                                                                                 <span class="elementor-icon-list-text">	Motion Sensor & photocell</span>
                                                                             </li>
                                                                 </ul>
@@ -1020,11 +927,22 @@
                                         </div>
                                     </div>
                                     </section>
-        <?php include('include/footer.php'); ?>
+
+              <!-- end: SHOP WIDGET PRODUTCS -->
+        <!-- DELIVERY INFO -->
+        
+        <!-- end: DELIVERY INFO -->
+        <!-- Footer -->
+        <?php include('header_page/footer.php'); ?>
+        <!-- end: Footer -->
     </div>
+    <!-- end: Body Inner -->
+    <!-- Scroll top -->
     <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+    <!--Plugins-->
     <script src="js/jquery.js"></script>
     <script src="js/plugins.js"></script>
+    <!--Template functions-->
     <script src="js/functions.js"></script>
 </body>
 

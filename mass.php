@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="INSPIRO" />
-    <meta name="description" content="Themeforest Template Polo, html template">
+    <meta name="description" content="Themeforest Template dhingra, html template">
     <link rel="icon" type="image/png" href="images/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Document title -->
     <title>Dhingra Group</title>
     <!-- Stylesheets & Fonts -->
     <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <style>
         .section-title::before{
@@ -45,15 +46,19 @@
         </section>
         <!-- end: Page title -->
         <!-- Content -->
+        <div class="container">
+<div class="row">
 
 
-        <!-- <section id="page-content">
-            <div class="container">
-              
-                <p class="pl-40">Mass Transit or Public Transportation is the Movement of People within Urban Areas, Intercity and Inter-Country using group travel technologies such as Buses, Trains, Metro's, trams, and Aircraft.</p>
-                <p>However transporting a lot of people at a time has always remained a challenge for all modes of transport therefore proper control keeping in view the safety, security, and convenience. Dhingra (DP3L) - Entrado comes in with various automation solutions that support the city infrastructure for managing public transportation.</p>
-            </div>
-      -->
+<div class="col-lg-12 pt-5"><p>Mass Transit or Public Transportation is the Movement of People within Urban Areas, Intercity and Inter-Country using group travel technologies such as Buses, Trains, Metro's, trams, and Aircraft.</p>
+                <p>However transporting a lot of people at a time has always remained a challenge for all modes of transport therefore proper control keeping in view the safety, security, and convenience. Dhingra (DP3L) - Entrado comes in with various automation solutions that support the city infrastructure for managing public transportation.</p></div>
+
+
+</div>
+</div>   
+
+
+       
         <section id="page-content">
             <div class="container">
                 <div class="row">
@@ -80,24 +85,23 @@
                                             <div class="elementor-element elementor-element-8f53219 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8f53219" data-element_type="widget" data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items ">
-                                                        <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
-                                                                    <span class="elementor-icon-list-text pb-4">Eliminating risk of passenger’s falling off</span>
+                                                        <li class="elementor-icon-list-item text1">
+                                                                        <span class="elementor-icon-list-icon ">
+                                                       				</span>
+                                                                    <span class="elementor-icon-list-text ">Eliminating risk of passenger’s falling off</span>
                                                                 </li>
-                                                            <li class="elementor-icon-list-item">
+                                                            <li class="elementor-icon-list-item ">
                                                                         <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
-                                                                    <span class="elementor-icon-list-text"> Blocking the train wind to reduce dust inows in the platform securing a clear view for passengers</span>
+                                                       				</span>
+                                                                    <span class="elementor-icon-list-text d-flex"> Blocking the train wind to reduce dust inows in the platform securing a clear view for passengers</span>
                                                                 </li>
-                                                            <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                            <li class="elementor-icon-list-item ">
+                                                                       
                                                                     <span class="elementor-icon-list-text"> Increasing aesthetic view of platform</span>
                                                                 </li>
                                                             <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                                        <span class="elementor-icon-list-icon ">
+                                                       				</span>
                                                                     <span class="elementor-icon-list-text">Optimizing platform air conditioning</span>
                                                                 </li>
                                                     </ul>
@@ -135,33 +139,27 @@
                     <div class="elementor-widget-container">
                         <ul class="elementor-icon-list-items">
                                 <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                               
                                             <span class="elementor-icon-list-text">SS304/SS316</span>
                                         </li>
                                     <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                               
                                             <span class="elementor-icon-list-text">Customized Design &amp; Dimensions</span>
                                         </li>
                                     <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                            
                                             <span class="elementor-icon-list-text"> BLDC Motor</span>
                                         </li>
                                     <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                               
                                             <span class="elementor-icon-list-text"> Intensive Use Machine Core</span>
                                         </li>
                                     <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                            
                                             <span class="elementor-icon-list-text">MTBF : 10 Mil Cycles</span>
                                         </li>
                                     <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                               
                                             <span class="elementor-icon-list-text">Fire Proof Polyurethane Flaps</span>
                                         </li>
                             </ul>
@@ -210,33 +208,27 @@
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                                 <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                             
                                                             <span class="elementor-icon-list-text">Sensor logic controlfor tailgaiting, crawling, Jumping Luggage Identification</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                                
                                                             <span class="elementor-icon-list-text">Single &amp; Dual Authentication options,</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                             
                                                             <span class="elementor-icon-list-text">Single &amp; Multiple Lane Options.</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                              
                                                             <span class="elementor-icon-list-text">Pass with 600-1100mm;</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                               
                                                             <span class="elementor-icon-list-text">Brushless Servo Motor</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                             
                                                             <span class="elementor-icon-list-text">Ideal for Border Control and Boarding  Gate Application</span>
                                                         </li>
                                             </ul>
@@ -246,34 +238,28 @@
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                                 <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                               
                                                             <span class="elementor-icon-list-text">SS304/SS316 Material</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                                
                                                             <span class="elementor-icon-list-text"> L: 2100, W: 220, H: 1000 mm</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                              
                                                             <span class="elementor-icon-list-text">Elegant and customized design  as per requirment</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                              
                                                             <span class="elementor-icon-list-text">Integration with passport Reader  &amp; Scanner</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
+                                                              
                                                             <span class="elementor-icon-list-text">Integration with Boarding pass  Scanner</span>
                                                         </li>
                                                     <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-hand-point-right"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Integration with all types of Biometric  Devices (Face/Fingerprints/Card/QRReader/  Barcode Scanner</span>
+                                                               
+                                                            <span class="elementor-icon-list-text ">Integration with all types of Biometric  Devices (Face/Fingerprints/Card/QRReader/  Barcode Scanner</span>
                                                         </li>
                                             </ul>
                                     </div>

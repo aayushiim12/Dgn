@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/*
 
-Polo - Multipurpose HTML5 Template
-Version: 5.9.9
-Website: https://inspirothemes.com/themes/polo
-License: https://inspirothemes.com/themes/polo/license.html
-Inspiro Themes (https://inspirothemes.com)
-Author: INSPIRO - Ardian Berisha
-Copyright 2021
-
-*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,400,500,600,700,800|Nunito:300,400,600,700,800");
 section { padding: 10px 0; position: relative; width: 100%; z-index: 1; background-color: #fff; }
 
@@ -22,7 +12,10 @@ section .page-content { padding: 0; }
 @media (max-width: 991.98px) { .container { padding: 0 30px; } }
 
 .rounded-circle { min-width: 1rem; min-height: 1rem; }
-
+.nav{
+  display: flex;
+  justify-content: center;
+}
 /*! Polo Widgets */
 .widget-list { margin: 0; padding: 0; list-style: none; }
 
@@ -4059,8 +4052,9 @@ button.btn.btn-lg, .btn:not(.close):not(.mfp-close).btn-lg, a.btn:not([href]):no
 
 button.btn:hover, button.btn:focus, button.btn:not(:disabled):not(.disabled):active, button.btn:not(:disabled):not(.disabled).active, .btn:not(.close):not(.mfp-close):hover, .btn:not(.close):not(.mfp-close):focus, .btn:not(.close):not(.mfp-close):not(:disabled):not(.disabled):active, .btn:not(.close):not(.mfp-close):not(:disabled):not(.disabled).active, a.btn:not([href]):not([tabindex]):hover, a.btn:not([href]):not([tabindex]):focus, a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled):active, a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled).active { background-color: orange; border-color: orange; color: #fff; text-decoration: none; }
 
-button.btn.btn-outline, .btn:not(.close):not(.mfp-close).btn-outline, a.btn:not([href]):not([tabindex]).btn-outline { background-color: transparent; border-width: 2px; border-style: solid; border-color: orange; color: orange;padding: 0% !important; 
-  margin: 3px; }
+
+button.btn.btn-outline, .btn:not(.close):not(.mfp-close).btn-outline, a.btn:not([href]):not([tabindex]).btn-outline { background-color: transparent; border-width: 2px; border-style: solid; border-color: orange; color: orange;padding: 12px !important; 
+  margin: -7px; }
 
 button.btn.btn-outline:hover, button.btn.btn-outline:focus, button.btn.btn-outline:active, button.btn.btn-outline.active, .btn:not(.close):not(.mfp-close).btn-outline:hover, .btn:not(.close):not(.mfp-close).btn-outline:focus, .btn:not(.close):not(.mfp-close).btn-outline:active, .btn:not(.close):not(.mfp-close).btn-outline.active, a.btn:not([href]):not([tabindex]).btn-outline:hover, a.btn:not([href]):not([tabindex]).btn-outline:focus, a.btn:not([href]):not([tabindex]).btn-outline:active, a.btn:not([href]):not([tabindex]).btn-outline.active { background-color: orange; border-width: 2px; border-style: solid; border-color: orange; color: #fff; }
 

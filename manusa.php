@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="INSPIRO" />
-    <meta name="description" content="Themeforest Template Polo, html template">
+    <meta name="description" content="Themeforest Template dhingra, html template">
     <link rel="icon" type="image/png" href="images/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Document title -->
-    <title>POLO | The Multi-Purpose HTML5 Template</title>
+    <title>dhingra | The Multi-Purpose HTML5 Template</title>
     <!-- Stylesheets & Fonts -->
     <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
 
@@ -30,15 +31,17 @@
                    
                 </div>
                 </div>
-        </section>                         
-                    <!-- Product additional tabs -->
-                       <!-- <section id="page-content">
-                        <div class="container">
-                          
-                            <p class="pl-40">MASS TRANSIT OR PUBLIC TRANSPORTATION IS THE MOVEMENT OF PEOPLE WITHIN URBAN AREAS, INTERCITY AND INTER COUNTRY USING GROUP TRAVEL TECHNOLOGIES SUCH AS BUSES AND TRAINS, METRO'S, TRAMS & AIRCRAFTS.</p>
-                            <p>  However transporting a lot of people at a time has always remained a challenge for all modes of transport therefore proper control keeping in view the safety, security and convenience. This is where LongLasst Entrada comes in with various automation solutions that support the city infrastructure for managing public transportation.</p>
-                        </div>
-                    </section> -->
+        </section>    
+        <div class="container">
+<div class="row">
+
+
+<div class="col-lg-12 pt-5"><p>MASS TRANSIT OR PUBLIC TRANSPORTATION IS THE MOVEMENT OF PEOPLE WITHIN URBAN AREAS, INTERCITY AND INTER COUNTRY USING GROUP TRAVEL TECHNOLOGIES SUCH AS BUSES AND TRAINS, METRO'S, TRAMS & AIRCRAFTS.</p>
+<p>However transporting a lot of people at a time has always remained a challenge for all modes of transport therefore proper control keeping in view the safety, security and convenience. This is where LongLasst Entrada comes in with various automation solutions that support the city infrastructure for managing public transportation.</p></div>
+
+
+</div>
+</div>             
                     <section id="page-content" class="main-section">
                         <div class="container">
                           <div class="row">
@@ -125,7 +128,7 @@
                                  
                     <?php include('header_page/footer.php'); ?>   
                           
-\
+
                                      
     <!-- end: Body Inner -->
     <!-- Scroll top -->
